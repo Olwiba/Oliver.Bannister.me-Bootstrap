@@ -28,4 +28,6 @@ At this time im planning to try and keep my site simple but beautiful and after 
 - Font-Awesome
 - Magnific popup
 
+# My CV
 
+![Ollie Bannister CV](https://github.com/Olwiba/Oliver.Bannister.me-Bootstrap/blob/master/resources/CV_files/Oliver_Bannister_CV.pdf)
