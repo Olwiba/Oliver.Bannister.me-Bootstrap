@@ -29,5 +29,5 @@ At this time im planning to try and keep my site simple but beautiful and after 
 - Magnific popup
 
 # My CV
-
+[Check out my CV!](Oliver.Bannister.me-Bootstrap/resources/CV_files/Oliver_Bannister_CV.pdf)
 ![Ollie Bannister CV](https://github.com/Olwiba/Oliver.Bannister.me-Bootstrap/blob/master/resources/CV_files/Oliver_Bannister_CV.pdf)
