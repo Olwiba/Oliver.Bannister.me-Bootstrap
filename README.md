@@ -16,6 +16,7 @@ A also want this as a place for potential employers to be able to see under the 
 ### Aim
 
 At this time im planning to try and keep my site simple but beautiful and after I have hit MVP I will start to impliment other features that I want.
+I want to be able to showcase all my projects that i have completed to date.
 
 # Technologies Used
 
